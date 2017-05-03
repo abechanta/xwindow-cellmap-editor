@@ -1,0 +1,16 @@
+#
+# env-file for Map_Editor (me)
+#
+
+ZOOM		2
+SCROLL		4
+PART		2
+
+COLOR_FILE	NONE
+
+SIZE		978 754
+WINDOW_0	279 128
+WINDOW_1	1 128
+WINDOW_2	1 305
+
+END
