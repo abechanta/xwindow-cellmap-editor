@@ -1,0 +1,36 @@
+#
+# cell-attribute-file for Map_Editor (me)
+#
+
+ATTR	  0	dummy
+ATTR	  1	woods
+ATTR	  2	spring
+ATTR	  3	sea
+ATTR	  4	mountain
+ATTR	  5	plane
+ATTR	  6	desert
+ATTR	  7	forest1
+ATTR	  8	forest2
+ATTR	  9	forest3
+ATTR	 10	forest4
+ATTR	 12	town
+ATTR	 13	city
+ATTR	 14	tea
+ATTR	 15	wiz
+ATTR	 16	dummy0
+ATTR	 17	dummy1
+ATTR	 18	dummy2
+ATTR	 19	dummy3
+ATTR	 20	dummy4
+ATTR	 21	dummy5
+ATTR	 22	dummy6
+ATTR	 23	dummy7
+ATTR	 32	rural city
+ATTR	 33	down town
+ATTR	 34	capital
+ATTR	 35	Greece
+ATTR	 36	Japan
+ATTR	 37	England
+ATTR	 38	Malaysia
+END
+
